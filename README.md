@@ -1,5 +1,3 @@
-# Efficient-Monocular-Depth-Estimation-for-Edge-Devices-in-Internet-of-Things
-
 ## Contents
 0. [Introduction](#introduction)
 0. [Quick Guide](#quick-guide)
